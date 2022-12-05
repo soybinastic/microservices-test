@@ -1,0 +1,12 @@
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\bin\Debug\net7.0\Play.Contracts.deps.json
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\bin\Debug\net7.0\Play.Contracts.dll
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\bin\Debug\net7.0\Play.Contracts.pdb
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.csproj.AssemblyReference.cache
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.AssemblyInfoInputs.cache
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.AssemblyInfo.cs
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.dll
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\refint\Play.Contracts.dll
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\Play.Contracts.pdb
+C:\Users\soybi\Projects\Learning\PlayCatalogServices\src\Play.Contracts\obj\Debug\net7.0\ref\Play.Contracts.dll
